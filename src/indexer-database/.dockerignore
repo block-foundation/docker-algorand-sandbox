@@ -1,0 +1,48 @@
+# General
+env
+.env
+.coverage
+.coverage.*
+manifest.json
+
+# Git
+.git
+.gitignore
+
+
+# Markdown
+README.md
+*.md
+
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.mypy_cache
+.pytest_cache
+.hypothesis
+
+
+# Node.js
+**/node_modules/
+**/dist
+npm-debug.log
+.aws
+
+
+# Other
+.RData
+.Rhistory
+rsconnect/
+.Rproj.user
