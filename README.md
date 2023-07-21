@@ -19,6 +19,28 @@
     <img src="https://raw.githubusercontent.com/block-foundation/docker-algorand-sandbox/master/res/block_foundation-containers.jpg"width="100%" height="100%" alt="Form Follows Finance">
 </p>
 
-## Disclaimer
+## Network
+
+``` mermaid
+stateDiagram
+    Blockchain --> Node
+    Node --> Blockchain
+    Node --> Indexer
+    state Indexer {
+      Service --> Database
+      Database --> Service
+    }
+    Indexer --> SDK
+    state SDK {
+      Python
+      JavaScript
+      Go
+      Java
+    }
+```
+
+## Legal
+
+### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
