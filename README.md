@@ -16,8 +16,24 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/docker-algorand-sandbox/master/res/block_foundation-containers.jpg"width="100%" height="100%" alt="Form Follows Finance">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Block Foundation Containers">
 </p>
+
+## Introduction
+
+Welcome to the Block Foundation's Algorand Sandbox Docker Image Repository, your one-stop resource for running an Algorand Sandbox with ease and efficiency.
+
+This repository is an integral part of our mission to harness blockchain technology to empower architects and foster innovative solutions to the housing sector's most pressing challenges.
+
+If you're unfamiliar with it, Algorand Sandbox is a fast, easy way to create and configure an Algorand development environment with all the necessary components. Meanwhile, Docker provides an efficient, reproducible environment to package and distribute software applications. The purpose of this repository is to provide a Docker image designed to facilitate the operation of an Algorand Sandbox.
+
+Our Algorand Sandbox Docker image aims to enhance accessibility, security, and ease-of-use. It features a pre-configured environment that eliminates the need for a manual setup, serving as an ideal resource for developers and blockchain enthusiasts who wish to explore the Algorand network or contribute to its growth by running their own sandbox.
+
+This repository contains detailed instructions on deploying and operating the Docker image, alongside the source code for the image itself. We actively encourage our community to utilize this Docker image, share their experiences, and participate in its ongoing improvement and development.
+
+Our commitment to transparency, shared innovation, and technological democratization is reflected in this initiative. We're excited to offer this resource to you and look forward to seeing how it enhances your engagement with blockchain technology.
+
+Thank you for being a key part of the Block Foundation community. Your involvement is vital in driving our endeavor to revolutionize the architectural and real estate sectors through blockchain technology. Together, we can build a future that is more inclusive, sustainable, and forward-thinking.
 
 ## Network
 
@@ -81,7 +97,7 @@ website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundati
 
 ### Contributing
 
-We'd love for you to contribute and to make **`block.txt`** even better than it is today!
+We'd love for you to contribute and to make this project even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
 ## Legal
