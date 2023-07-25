@@ -16,8 +16,9 @@
 ---
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/image/repository_cover/block_foundation-form_follows_finance.jpg"width="100%" height="100%" alt="Block Foundation Containers">
+    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-containers.jpg"width="100%" height="100%" alt="Block Foundation Containers">
 </p>
+
 
 ## Introduction
 
